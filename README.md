@@ -1,6 +1,6 @@
 # Clara Sabe:
 
-Este é um projeto que envolve a geração de conteúdo com inteligência artificial para criação de roteiro de podcast com ChatGPT, narração do roteiro com ElevenLabs e reprodução do episódio do podcast. O Podcast trata foca no tema **"Como evitar um Burnout"** e possui quatro blocos:
+Este é um projeto que envolve a geração de conteúdo com inteligência artificial para criação de roteiro de podcast com ChatGPT, narração do roteiro com ElevenLabs e reprodução do episódio do podcast. O Podcast apresenta o **"Burnout"** como tema principal e possui quatro blocos:
 
 1. Introdução
 2. Como identificar o burnout
