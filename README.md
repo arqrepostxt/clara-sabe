@@ -11,9 +11,9 @@ Os áudios foram gerados utilizando inteligência artificial para narração a p
 
 ## 📁 Estrutura de arquivos
 
-|--- index.html
-|--- roteiro.pdf
-|--- README.md
+|--- index.html   
+|--- roteiro.pdf  
+|--- README.md  
 |--- /src/audio
 
 
